@@ -1,0 +1,378 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "google_id": "104829302910293840192",
+      "email": "google_sub_6614979512779009",
+      "name": "Mani Kumar",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=150&auto=format&fit=crop&q=80",
+      "provider": "google",
+      "verified": 1,
+      "role": "user",
+      "created_at": "2026-07-30T17:34:09.923Z",
+      "updated_at": "2026-07-30T18:04:43.811Z",
+      "last_login_at": "2026-07-30T17:34:09.925Z"
+    },
+    {
+      "id": 2,
+      "google_id": "984710293847561928374",
+      "email": "alex.rivera@gmail.com",
+      "name": "Alex Rivera",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=alex.rivera%40gmail.com",
+      "provider": "google",
+      "verified": 1,
+      "role": "user",
+      "created_at": "2026-07-30T17:52:38.647Z",
+      "updated_at": "2026-07-30T17:52:38.647Z",
+      "last_login_at": "2026-07-30T17:52:38.647Z"
+    },
+    {
+      "id": 3,
+      "google_id": "google_sub_1592470538213224",
+      "email": "google_sub_1465193743993396",
+      "name": "Mani Kumar",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=150&auto=format&fit=crop&q=80",
+      "provider": "google",
+      "verified": 1,
+      "role": "user",
+      "created_at": "2026-07-30T18:05:16.577Z",
+      "updated_at": "2026-07-30T18:06:48.664Z",
+      "last_login_at": "2026-07-30T18:05:16.577Z"
+    },
+    {
+      "id": 4,
+      "google_id": "google_sub_1233500715182518",
+      "email": "mani.kumar@gmail.com",
+      "name": "Mani Kumar",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=150&auto=format&fit=crop&q=80",
+      "provider": "google",
+      "verified": 1,
+      "role": "user",
+      "created_at": "2026-07-30T18:10:43.045Z",
+      "updated_at": "2026-07-30T18:10:43.045Z",
+      "last_login_at": "2026-07-30T18:10:43.045Z"
+    },
+    {
+      "id": 5,
+      "google_id": "104829302910293840192",
+      "email": "manikumarkoppala2@gmail.com",
+      "name": "manikumarkoppala2",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=manikumarkoppala2%40gmail.com",
+      "provider": "google",
+      "verified": 1,
+      "role": "user",
+      "created_at": "2026-07-30T18:15:58.221Z",
+      "updated_at": "2026-07-30T18:15:58.221Z",
+      "last_login_at": "2026-07-30T18:15:58.221Z"
+    },
+    {
+      "id": 6,
+      "google_id": "google_sub_1785512703781",
+      "email": "manikoppala082@gmail.com",
+      "name": "manikoppala082",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=manikoppala082%40gmail.com",
+      "provider": "google",
+      "verified": 1,
+      "role": "user",
+      "created_at": "2026-07-31T15:45:04.123Z",
+      "updated_at": "2026-07-31T15:45:04.123Z",
+      "last_login_at": "2026-07-31T15:45:04.123Z"
+    }
+  ],
+  "authentications": [
+    {
+      "id": 1785433958648,
+      "user_id": 2,
+      "provider": "984710293847561928374",
+      "created_at": "2026-07-30T17:52:38.648Z"
+    },
+    {
+      "id": 1785434716578,
+      "user_id": 3,
+      "provider": "google_sub_1592470538213224",
+      "created_at": "2026-07-30T18:05:16.578Z"
+    },
+    {
+      "id": 1785435043047,
+      "user_id": 4,
+      "provider": "google_sub_1233500715182518",
+      "created_at": "2026-07-30T18:10:43.047Z"
+    },
+    {
+      "id": 1785435358222,
+      "user_id": 5,
+      "provider": "google_sub_1785435358200",
+      "created_at": "2026-07-30T18:15:58.222Z"
+    },
+    {
+      "id": 1785512704125,
+      "user_id": 6,
+      "provider": "google_sub_1785512703781",
+      "created_at": "2026-07-31T15:45:04.125Z"
+    }
+  ],
+  "sessions": [
+    {
+      "id": 1785433958656,
+      "user_id": 2,
+      "session_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MiwiZW1haWwiOiJhbGV4LnJpdmVyYUBnbWFpbC5jb20iLCJnb29nbGVJZCI6Ijk4NDcxMDI5Mzg0NzU2MTkyODM3NCIsInJvbGUiOiJ1c2VyIiwiaWF0IjoxNzg1NDMzOTU4LCJleHAiOjE3ODYwMzg3NTh9.voo-xhN9Pw_LYy9wrhUPBPL05W-GrlSfy2b1rv3PLIw",
+      "ip_address": "::1",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+      "expires_at": "2026-08-06T17:52:38.656Z",
+      "created_at": "2026-07-30T17:52:38.656Z"
+    },
+    {
+      "id": 1785434683814,
+      "user_id": 1,
+      "session_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwiZW1haWwiOiJnb29nbGVfc3ViXzY2MTQ5Nzk1MTI3NzkwMDkiLCJnb29nbGVJZCI6IjEwNDgyOTMwMjkxMDI5Mzg0MDE5MiIsInJvbGUiOiJ1c2VyIiwiaWF0IjoxNzg1NDM0NjgzLCJleHAiOjE3ODYwMzk0ODN9.kyUzxTO-tJUNp214a5tOj_1eDIaQU2bZZcmOv1GOAIs",
+      "ip_address": "::1",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+      "expires_at": "2026-08-06T18:04:43.814Z",
+      "created_at": "2026-07-30T18:04:43.814Z"
+    },
+    {
+      "id": 1785434808669,
+      "user_id": 3,
+      "session_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MywiZW1haWwiOiJnb29nbGVfc3ViXzE0NjUxOTM3NDM5OTMzOTYiLCJnb29nbGVJZCI6Imdvb2dsZV9zdWJfMTU5MjQ3MDUzODIxMzIyNCIsInJvbGUiOiJ1c2VyIiwiaWF0IjoxNzg1NDM0ODA4LCJleHAiOjE3ODYwMzk2MDh9.a5I78tVIV2PnBfmgN1Mhu1GtugFQGgpEOQdHKqpEq3U",
+      "ip_address": "::1",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+      "expires_at": "2026-08-06T18:06:48.669Z",
+      "created_at": "2026-07-30T18:06:48.669Z"
+    }
+  ],
+  "login_history": [
+    {
+      "id": 1785433958649,
+      "user_id": 2,
+      "ip_address": "::1",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+      "status": "SUCCESS",
+      "created_at": "2026-07-30T17:52:38.649Z"
+    },
+    {
+      "id": 1785434683813,
+      "user_id": 1,
+      "ip_address": "::1",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+      "status": "SUCCESS",
+      "created_at": "2026-07-30T18:04:43.813Z"
+    },
+    {
+      "id": 1785434716581,
+      "user_id": 3,
+      "ip_address": "::1",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+      "status": "SUCCESS",
+      "created_at": "2026-07-30T18:05:16.581Z"
+    },
+    {
+      "id": 1785434808667,
+      "user_id": 3,
+      "ip_address": "::1",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+      "status": "SUCCESS",
+      "created_at": "2026-07-30T18:06:48.667Z"
+    },
+    {
+      "id": 1785435043049,
+      "user_id": 4,
+      "ip_address": "::1",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+      "status": "SUCCESS",
+      "created_at": "2026-07-30T18:10:43.049Z"
+    },
+    {
+      "id": 1785435358224,
+      "user_id": 5,
+      "ip_address": "::1",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+      "status": "SUCCESS",
+      "created_at": "2026-07-30T18:15:58.224Z"
+    },
+    {
+      "id": 1785512704127,
+      "user_id": 6,
+      "ip_address": "::1",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+      "status": "SUCCESS",
+      "created_at": "2026-07-31T15:45:04.127Z"
+    },
+    {
+      "id": 1785512712589,
+      "user_id": 5,
+      "ip_address": "::1",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+      "status": "SUCCESS",
+      "created_at": "2026-07-31T15:45:12.589Z"
+    },
+    {
+      "id": 1785513445571,
+      "user_id": 5,
+      "ip_address": "::1",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+      "status": "SUCCESS",
+      "created_at": "2026-07-31T15:57:25.571Z"
+    },
+    {
+      "id": 1785514523681,
+      "user_id": 5,
+      "ip_address": "::1",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+      "status": "SUCCESS",
+      "created_at": "2026-07-31T16:15:23.681Z"
+    }
+  ],
+  "email_logs": [
+    {
+      "id": 1785433958649,
+      "recipient": "alex.rivera@gmail.com",
+      "subject": "Welcome to Puzzleoid AI Auth System, Alex Rivera! 🎉",
+      "email_type": "WELCOME",
+      "status": "SENT",
+      "message_id": "sim_1785433958648_din8ly",
+      "error_message": null,
+      "sent_at": "2026-07-30T17:52:38.649Z"
+    },
+    {
+      "id": 1785433958649,
+      "recipient": "alex.rivera@gmail.com",
+      "subject": "New Account Created - Puzzleoid AI Auth System",
+      "email_type": "ACCOUNT_CREATED",
+      "status": "SENT",
+      "message_id": "sim_1785433958649_3l1qdg",
+      "error_message": null,
+      "sent_at": "2026-07-30T17:52:38.649Z"
+    },
+    {
+      "id": 1785434683812,
+      "recipient": "google_sub_6614979512779009",
+      "subject": "Security Alert: New Sign-in to Your Account",
+      "email_type": "LOGIN_ALERT",
+      "status": "SENT",
+      "message_id": "sim_1785434683812_5mdpjc",
+      "error_message": null,
+      "sent_at": "2026-07-30T18:04:43.812Z"
+    },
+    {
+      "id": 1785434716579,
+      "recipient": "mani.kumar@gmail.com",
+      "subject": "Welcome to Puzzleoid AI Auth System, Mani Kumar! 🎉",
+      "email_type": "WELCOME",
+      "status": "SENT",
+      "message_id": "sim_1785434716579_3fipcu",
+      "error_message": null,
+      "sent_at": "2026-07-30T18:05:16.579Z"
+    },
+    {
+      "id": 1785434716580,
+      "recipient": "mani.kumar@gmail.com",
+      "subject": "New Account Created - Puzzleoid AI Auth System",
+      "email_type": "ACCOUNT_CREATED",
+      "status": "SENT",
+      "message_id": "sim_1785434716580_rtvquk",
+      "error_message": null,
+      "sent_at": "2026-07-30T18:05:16.580Z"
+    },
+    {
+      "id": 1785434808666,
+      "recipient": "google_sub_1465193743993396",
+      "subject": "Security Alert: New Sign-in to Your Account",
+      "email_type": "LOGIN_ALERT",
+      "status": "SENT",
+      "message_id": "sim_1785434808666_0tj8sf",
+      "error_message": null,
+      "sent_at": "2026-07-30T18:06:48.666Z"
+    },
+    {
+      "id": 1785435043048,
+      "recipient": "mani.kumar@gmail.com",
+      "subject": "Welcome to Puzzleoid AI Auth System, Mani Kumar! 🎉",
+      "email_type": "WELCOME",
+      "status": "SENT",
+      "message_id": "sim_1785435043048_dsdhxw",
+      "error_message": null,
+      "sent_at": "2026-07-30T18:10:43.048Z"
+    },
+    {
+      "id": 1785435043049,
+      "recipient": "mani.kumar@gmail.com",
+      "subject": "New Account Created - Puzzleoid AI Auth System",
+      "email_type": "ACCOUNT_CREATED",
+      "status": "SENT",
+      "message_id": "sim_1785435043049_5xpsxr",
+      "error_message": null,
+      "sent_at": "2026-07-30T18:10:43.049Z"
+    },
+    {
+      "id": 1785435358223,
+      "recipient": "manikumarkoppala2@gmail.com",
+      "subject": "Welcome to Puzzleoid AI Auth System, manikumarkoppala2! 🎉",
+      "email_type": "WELCOME",
+      "status": "SENT",
+      "message_id": "sim_1785435358222_f1xd2p",
+      "error_message": null,
+      "sent_at": "2026-07-30T18:15:58.223Z"
+    },
+    {
+      "id": 1785435358223,
+      "recipient": "manikumarkoppala2@gmail.com",
+      "subject": "New Account Created - Puzzleoid AI Auth System",
+      "email_type": "ACCOUNT_CREATED",
+      "status": "SENT",
+      "message_id": "sim_1785435358223_gm9253",
+      "error_message": null,
+      "sent_at": "2026-07-30T18:15:58.223Z"
+    },
+    {
+      "id": 1785512704126,
+      "recipient": "manikoppala082@gmail.com",
+      "subject": "Welcome to Puzzleoid AI Auth System, manikoppala082! 🎉",
+      "email_type": "WELCOME",
+      "status": "SENT",
+      "message_id": "sim_1785512704126_wiuhdz",
+      "error_message": null,
+      "sent_at": "2026-07-31T15:45:04.126Z"
+    },
+    {
+      "id": 1785512704127,
+      "recipient": "manikoppala082@gmail.com",
+      "subject": "New Account Created - Puzzleoid AI Auth System",
+      "email_type": "ACCOUNT_CREATED",
+      "status": "SENT",
+      "message_id": "sim_1785512704127_dwrp9i",
+      "error_message": null,
+      "sent_at": "2026-07-31T15:45:04.127Z"
+    },
+    {
+      "id": 1785512712588,
+      "recipient": "manikumarkoppala2@gmail.com",
+      "subject": "Security Alert: New Sign-in to Your Account",
+      "email_type": "LOGIN_ALERT",
+      "status": "SENT",
+      "message_id": "sim_1785512712588_pcd839",
+      "error_message": null,
+      "sent_at": "2026-07-31T15:45:12.588Z"
+    },
+    {
+      "id": 1785513445569,
+      "recipient": "manikumarkoppala2@gmail.com",
+      "subject": "Security Alert: New Sign-in to Your Account",
+      "email_type": "LOGIN_ALERT",
+      "status": "SENT",
+      "message_id": "sim_1785513445569_32l28y",
+      "error_message": null,
+      "sent_at": "2026-07-31T15:57:25.569Z"
+    },
+    {
+      "id": 1785514523679,
+      "recipient": "manikumarkoppala2@gmail.com",
+      "subject": "Security Alert: New Sign-in to Your Account",
+      "email_type": "LOGIN_ALERT",
+      "status": "SENT",
+      "message_id": "sim_1785514523679_sazx8e",
+      "error_message": null,
+      "sent_at": "2026-07-31T16:15:23.679Z"
+    }
+  ],
+  "security_tokens": []
+}
